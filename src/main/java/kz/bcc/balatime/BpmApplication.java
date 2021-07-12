@@ -1,4 +1,4 @@
-package kz.bcc.tuto.bpm;
+package kz.bcc.balatime;
 
 import org.camunda.bpm.spring.boot.starter.annotation.EnableProcessApplication;
 import org.springframework.boot.SpringApplication;

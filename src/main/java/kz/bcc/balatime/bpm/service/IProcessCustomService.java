@@ -1,6 +1,5 @@
-package kz.bcc.tuto.bpm.service;
+package kz.bcc.balatime.bpm.service;
 
-import org.camunda.bpm.engine.rest.dto.ProcessEngineDto;
 import org.camunda.bpm.engine.rest.dto.repository.ProcessDefinitionDto;
 
 import java.util.HashMap;

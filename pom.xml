@@ -8,7 +8,7 @@
         <version>2.2.6.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>kz.bcc.tuto</groupId>
+    <groupId>kz.bcc.balatime</groupId>
     <artifactId>bpm</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>bpm</name>

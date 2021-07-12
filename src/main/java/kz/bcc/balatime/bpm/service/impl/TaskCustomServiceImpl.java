@@ -1,6 +1,6 @@
-package kz.bcc.tuto.bpm.service.impl;
+package kz.bcc.balatime.bpm.service.impl;
 
-import kz.bcc.tuto.bpm.service.TaskCustomService;
+import kz.bcc.balatime.bpm.service.TaskCustomService;
 import org.camunda.bpm.engine.IdentityService;
 import org.camunda.bpm.engine.TaskService;
 import org.camunda.bpm.engine.rest.dto.task.TaskDto;
@@ -8,7 +8,6 @@ import org.camunda.bpm.engine.task.Task;
 import org.camunda.bpm.engine.task.TaskQuery;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
 
 import java.util.ArrayList;
 import java.util.HashMap;
